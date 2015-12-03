@@ -5,7 +5,7 @@ Merges portable document format (PDF) files on the Windows platform with the hel
 
 This script requires
 
-- [Ghostscript](http://www.ghostscript.com) to be installed on the system ([Download page][ghostscript-download-page-link])
+- [Ghostscript](http://www.ghostscript.com) to be installed on the system ([download page][ghostscript-download-page-link])
 - and an environment variable named `GSWIN` pointing to the Ghostscript binary.
 
 ## Usage
