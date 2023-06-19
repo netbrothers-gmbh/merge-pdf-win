@@ -1,4 +1,5 @@
 # win-pdf-merge
+
 Merges portable document format (PDF) files on the Windows platform with the help of [Ghostscript](http://www.ghostscript.com).
 
 ## Prerequisites
@@ -16,4 +17,4 @@ Once the `GSWIN` environment variable is set to the correct path, e.g. `"C:\Prog
 win-pdf-merge.bat Merged.pdf FirstToMerge.pdf SecondToMerge.pdf [...]
 ```
 
-[ghostscript-download-page-link]: http://www.ghostscript.com/download/gsdnld.html
+[ghostscript-download-page-link]: https://ghostscript.com/releases/gsdnld.html
